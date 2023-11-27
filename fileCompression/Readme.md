@@ -2,7 +2,7 @@
 
 A Simpe File Compression Program in Rust
 
-Before getting started with anything download (Rust)[https://www.rust-lang.org/]
+Before getting started with anything download [Rust](https://www.rust-lang.org/)
 
 ## Getting Started
 
